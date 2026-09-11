@@ -109,4 +109,3 @@ total:
 ---
 
 ---
-{"id":202464165,"author":{"login":"jucasoliveira","id":11979969,"node_id":"MDQ6VXNlcjExOTc5OTY5","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOIuUqPc4MEVul","tag_name":"2.0.3","target_commitish":"main","name":"2.0.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-02-26T05:38:38Z","updated_at":"2025-02-26T05:40:46Z","published_at":"2025-02-26T05:40:46Z","assets":[],"body":"## What's Changed\r\n* Fix package build structure and improve multiline input  by @jucasoliveira in https://github.com/jucasoliveira/terminalGPT/pull/96\r\n\r\n\r\n**Full Changelog**: https://github.com/jucasoliveira/terminalGPT/compare/2.0.1...2.0.3","mentions_count":1}
